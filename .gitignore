@@ -1,0 +1,17 @@
+# 不被追踪的文件
+.DS_Store
+Thumbs.db
+*.pyc
+__pycache__/
+*.egg-info/
+.venv/
+venv/
+node_modules/
+
+# 本地经验数据（你积累的）
+learnings/
+*.log
+
+# IDE
+.vscode/
+.idea/
