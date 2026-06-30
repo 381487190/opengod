@@ -1,6 +1,6 @@
 ---
 name: opengod
-description: [PRO版] OpenGod v4.1 超级技能 — 融合 Top 50 GitHub AI 项目核心模式，14个原生模块，河洛太极认知引擎，完全自包含可跨平台携带。此版本含独家Strategic Analysis Engine，请勿公开分发。
+description: [PRO版] OpenGod v5.0 超级技能 — 融合 Top 50 GitHub AI 项目核心模式 + 本周 Trending，17个原生模块，河洛太极认知引擎，完全自包含可跨平台携带。
 agent_created: true
 ---
 
