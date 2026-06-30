@@ -110,18 +110,13 @@ MIT License — freely use, modify, and distribute.
 
 ---
 
-## Get Pro Version
+## Support
 
-This is the **Lite** version (free, open source). 
+OpenGod is free and open source. If it helps you, consider supporting:
 
-The **Pro** version includes the **Strategic Analysis Engine** — a proprietary cognitive framework that provides verified 5-10x improvement in complex decision analysis depth. Used by the creator across 5 business lines.
+⭐ **Star this repo** — costs nothing, helps a lot
 
-| Plan | Price | Includes |
-|------|-------|----------|
-| Monthly | ¥9.9/mo | Full Pro engine + updates |
-| Annual | ¥99/yr | Full Pro engine + updates (save ¥20) |
-
-👉 [Get Pro on 爱发电](https://ifdian.net/a/qq381487190)
+💰 **Sponsor on 爱发电** → [ifdian.net/a/qq381487190](https://ifdian.net/a/qq381487190)
 
 ---
 
