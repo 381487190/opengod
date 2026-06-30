@@ -10,7 +10,7 @@ NPM="$HOME/.workbuddy/binaries/node/versions/22.22.2/npm"
 
 echo "========================================"
 echo "  OpenGod v3.0 组件安装器"
-echo "  Strategic Analysis Engine · 自动升级"
+echo "  河洛太极引擎 · 自动升级"
 echo "========================================"
 
 # 1. 创建隔离 Python 环境
