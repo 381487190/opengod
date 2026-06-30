@@ -100,7 +100,7 @@ MIT License — 自由使用、修改、分发。
 
 本仓库为 OpenGod Lite 版。Pro 版包含 **Strategic Analysis Engine**——一套基于多维穷举的最优路径分析引擎，能在任何复杂决策场景中提供 A/B 测试验证过的分析深度提升。
 
-👉 [获取 Pro 版](https://你的网站/pro)
+👉 [获取 Pro 版](https://ifdian.net/a/qq381487190)
 
 ---
 

@@ -116,7 +116,7 @@ This is the **Lite** version (free, open source).
 
 The **Pro** version includes the **Strategic Analysis Engine** — a proprietary cognitive framework that provides verified 5-10x improvement in complex decision analysis depth. Used by the creator across 5 business lines generating ¥10,000+/month.
 
-👉 [Get Pro Version](https://your-website.com/pro)
+👉 [Get Pro Version](https://ifdian.net/a/qq381487190)
 
 ---
 
