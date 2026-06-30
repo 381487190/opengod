@@ -1,6 +1,6 @@
 ---
 name: opengod
-description: OpenGod v4.1 超级技能 — 融合 Top 50 GitHub AI 项目核心模式，14个原生模块，河洛太极认知引擎，完全自包含可跨平台携带。此版本含独家Strategic Analysis Engine，请勿公开分发。
+description: [PRO版] OpenGod v4.1 超级技能 — 融合 Top 50 GitHub AI 项目核心模式，14个原生模块，河洛太极认知引擎，完全自包含可跨平台携带。此版本含独家Strategic Analysis Engine，请勿公开分发。
 agent_created: true
 ---
 
@@ -25,7 +25,10 @@ modules/                      ← 14个原生能力模块 (纯Markdown)
 ├── finance.md                # 🆕 TradingAgents #27 + ai-hedge-fund #48 + OpenBB #36
 ├── ui-ux-skill.md            # 🆕 ui-ux-pro-max-skill #22
 ├── content-factory.md        # 🆕 MoneyPrinterTurbo #23 + autoresearch #26
-└── portability.md            # 🆕 跨平台携带指南 — Git clone即用
+├── intelligence.md          # 🆕 worldmonitor #19 + MediaCrawler #20
+├── video-production.md      # 🆕 OpenMontage #1
+├── security-audit.md        # 🆕 Cybersecurity Skills #12
+└── portability.md            # 跨平台携带指南 — Git clone即用
 ```
 
 **核心变化**: 不再依赖外部安装。6 个模块 = 6 个可直接在对话中执行的能力包。
