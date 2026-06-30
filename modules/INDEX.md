@@ -6,7 +6,7 @@
 
 | # | 模块 | 文件 | 来源项目 | 成熟度 |
 |:--:|------|------|------|:--:|
-| 1 | Strategic Analysis Engine | 内置于 SKILL.md | 深度思考deep analysis | 100% |
+| 1 | 河洛太极引擎 | 内置于 SKILL.md | 深度思考降维打击 | 100% |
 | 2 | Hermes 自进化 | hermes-agent.md | hermes-agent(#2) | 95% |
 | 3 | Agent Loop | agent-loop.md | AutoGPT(#5)+MetaGPT(#37)+CrewAI(#50) | 90% |
 | 4 | Workflow Engine | workflow-engine.md | n8n(#4)+langflow(#10)+dify(#11) | 90% |
