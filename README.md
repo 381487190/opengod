@@ -114,9 +114,14 @@ MIT License — freely use, modify, and distribute.
 
 This is the **Lite** version (free, open source). 
 
-The **Pro** version includes the **Strategic Analysis Engine** — a proprietary cognitive framework that provides verified 5-10x improvement in complex decision analysis depth. Used by the creator across 5 business lines generating ¥10,000+/month.
+The **Pro** version includes the **Strategic Analysis Engine** — a proprietary cognitive framework that provides verified 5-10x improvement in complex decision analysis depth. Used by the creator across 5 business lines.
 
-👉 [Get Pro Version](https://ifdian.net/a/qq381487190)
+| Plan | Price | Includes |
+|------|-------|----------|
+| Monthly | ¥9.9/mo | Full Pro engine + updates |
+| Annual | ¥99/yr | Full Pro engine + updates (save ¥20) |
+
+👉 [Get Pro on 爱发电](https://ifdian.net/a/qq381487190)
 
 ---
 
