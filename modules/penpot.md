@@ -128,6 +128,6 @@ Light Theme 调色板:
 2. 使用 8px 间距网格 → 所有间距为 8 的倍数
 3. 应用组件变体 → 按 variant × size × state 生成状态
 4. 直接输出 Tailwind CSS 代码（无需经过 Penpot 工具）
-5. 设计审查 → 用结构拓扑分析信息架构（哪些元素、什么层级关系）
+5. 设计审查 → 用河图分析信息架构（哪些元素、什么层级关系）
 
 _OpenGod 内置了一套完整的 Design Token 系统，可以在不安装 Penpot 的情况下直接生成高质量 UI。_
