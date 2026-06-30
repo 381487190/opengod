@@ -1,52 +1,52 @@
-# OpenGod v4.1 模块索引
+# OpenGod v5.0 模块索引
 
-14 个原生能力模块，全部从 Top 50 GitHub AI 项目源码提取整合。
+17 个原生能力模块，从 Top 50 GitHub AI 项目 + 本周 Trending 提取整合。
 
 ## 核心认知层
 
-| # | 模块 | 文件 | 来源项目 | 成熟度 |
+| # | 模块 | 文件 | 来源 | 成熟度 |
 |:--:|------|------|------|:--:|
-| 1 | 河洛太极引擎 | 内置于 SKILL.md | 深度思考降维打击 | 100% |
-| 2 | Hermes 自进化 | hermes-agent.md | hermes-agent(#2) | 95% |
-| 3 | Agent Loop | agent-loop.md | AutoGPT(#5)+MetaGPT(#37)+CrewAI(#50) | 90% |
-| 4 | Workflow Engine | workflow-engine.md | n8n(#4)+langflow(#10)+dify(#11) | 90% |
+| 1 | 河洛太极引擎 | SKILL.md | 深度思考降维打击 | 100% |
+| 2 | Hermes 自进化 | hermes-agent.md | Hermes #2 | 95% |
+| 3 | Agent Loop | agent-loop.md | AutoGPT#5+MetaGPT#37+CrewAI#50 | 90% |
+| 4 | Workflow Engine | workflow-engine.md | n8n#4+langflow#10+dify#11 | 90% |
 
 ## 记忆与感知层
 
-| # | 模块 | 文件 | 来源项目 | 成熟度 |
+| # | 模块 | 文件 | 来源 | 成熟度 |
 |:--:|------|------|------|:--:|
-| 5 | OpenHuman 记忆中枢 | openhuman.md | OpenHuman | 80% |
+| 5 | OpenHuman 记忆 | openhuman.md | OpenHuman | 80% |
 | 6 | Agent-Reach 感官 | agent-reach.md | Agent-Reach | 90% |
-| 7 | RAG 知识引擎 | rag-knowledge.md | ragflow(#29)+anything-llm(#47)+crawl4ai(#38) | 85% |
+| 7 | RAG 知识引擎 | rag-knowledge.md | ragflow#29+anything-llm#47 | 85% |
+| 8 | Intelligence 情报 | intelligence.md | 🆕 worldmonitor#19+MediaCrawler#20 | 80% |
 
 ## 行动层
 
-| # | 模块 | 文件 | 来源项目 | 成熟度 |
+| # | 模块 | 文件 | 来源 | 成熟度 |
 |:--:|------|------|------|:--:|
-| 8 | Stock Analysis | stock-analysis.md | daily_stock_analysis+TradingAgents(#27) | 90% |
-| 9 | Finance 引擎 | finance.md | OpenBB(#36)+ai-hedge-fund(#48) | 85% |
-| 10 | Website Cloner | website-cloner.md | ai-website-cloner | 75% |
-| 11 | Penpot 设计 | penpot.md | Penpot | 100% |
-| 12 | UI/UX Skill | ui-ux-skill.md | ui-ux-pro-max-skill(#22) | 100% |
-| 13 | Content Factory | content-factory.md | MoneyPrinterTurbo(#23)+autoresearch(#26) | 85% |
+| 9 | Stock Analysis | stock-analysis.md | daily_stock_analysis+TradingAgents#27 | 90% |
+| 10 | Finance 引擎 | finance.md | OpenBB#36+ai-hedge-fund#48 | 85% |
+| 11 | Website Cloner | website-cloner.md | ai-website-cloner | 75% |
+| 12 | Penpot 设计 | penpot.md | Penpot | 100% |
+| 13 | UI/UX Skill | ui-ux-skill.md | ui-ux-pro-max#22+design.md#5 | 100% |
+| 14 | Content Factory | content-factory.md | MoneyPrinterTurbo#23+autoresearch#26 | 85% |
+| 15 | Video Production | video-production.md | 🆕 OpenMontage#1 | 75% |
+| 16 | Security Audit | security-audit.md | 🆕 Cybersecurity Skills#12 | 85% |
 
 ## 辅助层
 
-| # | 模块 | 文件 | 来源项目 | 成熟度 |
+| # | 模块 | 文件 | 来源 | 成熟度 |
 |:--:|------|------|------|:--:|
-| 14 | Portability | portability.md | — | 100% |
+| 17 | Portability | portability.md | — | 100% |
 
-## Top 50 覆盖统计
+## 本周 Trending 覆盖
 
-| 状态 | 数量 | 项目 |
-|:--:|:--:|------|
-| 已融合 | 18 | hermes-agent, skills, claude-code, TradingAgents, ai-hedge-fund, AutoGPT, n8n, langflow, dify, spec-kit, MetaGPT, CrewAI, autogen, ragflow, anything-llm, crawl4ai, OpenBB, ui-ux-pro-max-skill |
-| 平台内置 | 2 | openclaw(=WorkBuddy), browser-use(=WebFetch)|
-| 无关/框架 | 10 | tensorflow, pytorch, ollama, transformers, vllm, llama.cpp, opencv, scikit-learn, keras, redis |
-| 应用类(非Skill) | 14 | stable-diffusion-webui, open-webui, excalidraw, ComfyUI, Deep-Live-Cam, MoneyPrinterTurbo, NextChat, lobe-chat, OpenBB, deer-flow, gpt4all, PaddleOCR, scrapy, unsloth |
-| 未覆盖 | 6 | gemini-cli, autoresearch, OpenHands, Netdata, LLaMA-Factory, awesome-claude-skills |
+| 状态 | 项目 |
+|:--:|------|
+| 已整合 | OpenMontage#1, codebase-memory#2, design.md#5, ai-website-cloner#6, daily_stock#9, Agent-Reach#11, Cybersecurity#12, Penpot#13, cognee#21, deer-flow#22 |
+| 新增模块 | video-production(#1), security-audit(#12), intelligence(#19+#20) |
+| 无关 | no-mistakes#3, palmier#4, SimpleX#7, hiring-agent#8, orca#10, agent-native#14, voicebox#15, AWS#16, page-agent#17, PDF#18 |
 
 ## 版本
 
-- v4.1 (2026-06-30): Top 50 GitHub 项目融合 — 新增 8 个模块，总计 14 模块
-- v4.0 (2026-06-30): 模块化整合 — 6 个原生能力模块
+- v5.0 (2026-06-30): 本周 Trending 融合 — 新增 video-production, security-audit, intelligence，总计 17 模块
